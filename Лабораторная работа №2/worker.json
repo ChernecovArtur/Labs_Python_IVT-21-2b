@@ -1,0 +1,64 @@
+{
+    "Workers": [
+        {
+            "name": "\u0410\u0440\u0442\u0443\u0440",
+            "age": 41,
+            "salary": 55999,
+            "experience": 26
+        },
+        {
+            "name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439",
+            "age": 54,
+            "salary": 96483,
+            "experience": 7
+        },
+        {
+            "name": "\u0418\u0432\u0430\u043d",
+            "age": 57,
+            "salary": 134052,
+            "experience": 18
+        },
+        {
+            "name": "\u041a\u0430\u0442\u044f",
+            "age": 22,
+            "salary": 55075,
+            "experience": 23
+        },
+        {
+            "name": "\u0420\u043e\u043c\u0430\u043d",
+            "age": 48,
+            "salary": 47795,
+            "experience": 24
+        },
+        {
+            "name": "\u042d\u0432\u0435\u043b\u0438\u043d\u0430",
+            "age": 46,
+            "salary": 34154,
+            "experience": 32
+        },
+        {
+            "name": "\u0418\u0432\u0430\u043d",
+            "age": 33,
+            "salary": 136166,
+            "experience": 16
+        },
+        {
+            "name": "\u042d\u0432\u0435\u043b\u0438\u043d\u0430",
+            "age": 63,
+            "salary": 22858,
+            "experience": 12
+        },
+        {
+            "name": "\u0410\u0440\u0442\u0443\u0440",
+            "age": 51,
+            "salary": 126894,
+            "experience": 42
+        },
+        {
+            "name": "\u041a\u0430\u0442\u044f",
+            "age": 35,
+            "salary": 39126,
+            "experience": 14
+        }
+    ]
+}
